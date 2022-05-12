@@ -1,0 +1,13 @@
+{
+  "name": "test-nodejs",
+  "version": "1.0.0",
+  "description": "testing http module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test" ,
+    "start": "node index.js"
+  },
+  "author": "abhay",
+  "license": "ISC",
+  "keywords": []
+}
